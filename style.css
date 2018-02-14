@@ -1,0 +1,15 @@
+@import url(normalize.css);
+
+body{
+  text-align: center;
+}
+
+h1{
+  width: 100%;
+}
+
+.hello-bug{
+  color: #c1c1c1;
+  font-size: 5em;
+  margin-bottom: 0;
+}
